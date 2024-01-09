@@ -1,0 +1,20 @@
+body {
+    background-color: #988d8d;
+  }
+  #cv_form {
+     display: none; 
+     margin-top: 10px; 
+  }
+  #cv-template {
+    display: none;
+  }
+  .myimg {
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+  }
+  
+  .background {
+    background-color: rgb(17, 194, 194);
+  }
+  
